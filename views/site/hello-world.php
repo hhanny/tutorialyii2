@@ -1,0 +1,7 @@
+<?=
+    $hello
+?>
+
+<!-- <?php
+    echo $hello
+?> -->
